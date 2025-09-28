@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.star.drown"
+    namespace = "com.v2ray.ang"
     compileSdk = 35
 
     defaultConfig {
